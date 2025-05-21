@@ -4,4 +4,5 @@
 - asi es asi es
 locucion inecxata
 - la redaccion del raton loco 
+-la loquita del rancho 
  
